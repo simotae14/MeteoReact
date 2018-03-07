@@ -18,6 +18,8 @@ export default class SearchBar extends Component {
 
   onFormSubmit(event) {
     event.preventDefault();
+
+    // recuperare i Dati del meteo
   }
 
   render() {
